@@ -3494,6 +3494,8 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
  「 هذا هو رابط أخبار سكاي」◣
 		    「https://chat.whatsapp.com/GCDgZTFmaxf56wBZAovimd」◣
 		    「 آخر أخبار الانمي 💖🤗」◣`,
+「اذا تبغا تتضم ل سكاي كلم هذا الرقم」◣
+		    「https://wa.me/qr/UNCCRVVZ2XPAB1」◣
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
                     footerText: `「  قيد التعديل ⚙️」◣`,
