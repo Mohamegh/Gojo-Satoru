@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['01116578749']
-global.premium = ['01116578749']
-global.ownernomer = '01116578749'
+global.owner = ['https://wa.me/qr/UNCCRVVZ2XPAB1']
+global.premium = ['https://wa.me/qr/UNCCRVVZ2XPAB1']
+global.ownernomer = 'https://wa.me/qr/UNCCRVVZ2XPAB1'
 global.ownername = '( الـمـطـور )'
 global.botname = '( بـوت ساتو )'
 global.footer = '( ساتو )'
@@ -29,7 +29,7 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/KcQvBAVIITxDsG5Z10lJep'
 global.myweb = 'https://solo.to/gg-nenja'
-global.packname = 'https://wa.me/+01116578749'
+global.packname = 'https://wa.me/qr/UNCCRVVZ2XPAB1'
 global.author = '[ ساتو ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
